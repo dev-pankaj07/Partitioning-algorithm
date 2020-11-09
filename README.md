@@ -1,0 +1,2 @@
+# Partitioning-algorithm
+Mini project
